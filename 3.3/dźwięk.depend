@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635191994 source:c:\users\alter\onedrive\pulpit\informatyka\programowanie\pracadomowa\dŸwiêk\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
